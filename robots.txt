@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://mahmutlar-satilik-daire-4150k.vercel.app/sitemap.xml
