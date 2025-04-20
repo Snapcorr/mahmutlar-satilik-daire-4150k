@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Mahmutlar Satılık Daire RSS</title>
+    <link>https://mahmutlar-satilik-daire-4150k.vercel.app/</link>
+    <description>Alanya Mahmutlar'da 1+1 Satılık Daireler - Yatırım ve Konfor</description>
+    <language>tr</language>
+    <lastBuildDate>2025-04-20</lastBuildDate>
+
+    <item>
+      <title>Genel Bakış</title>
+      <link>https://mahmutlar-satilik-daire-4150k.vercel.app/index.html</link>
+      <description>Güneşli, tam donanımlı 1+1 daire. Klima, balkon, turizm izni.</description>
+      <pubDate>2025-04-18</pubDate>
+    </item>
+
+    <item>
+      <title>Yatırım Potansiyeli</title>
+      <link>https://mahmutlar-satilik-daire-4150k.vercel.app/landing02_investment.html</link>
+      <description>Yüksek kira getirisi ve Airbnb uyumlu konum.</description>
+      <pubDate>2025-04-18</pubDate>
+    </item>
+
+    <item>
+      <title>Turizm Kiralama</title>
+      <link>https://mahmutlar-satilik-daire-4150k.vercel.app/landing03_tourism.html</link>
+      <description>Yasal günübirlik kiralama izni ile hazır sistem.</description>
+      <pubDate>2025-04-18</pubDate>
+    </item>
+
+    <item>
+      <title>Aile İçin Uygun</title>
+      <link>https://mahmutlar-satilik-daire-4150k.vercel.app/landing04_family.html</link>
+      <description>Okullara yakın, güvenli site, 2. kat konforu.</description>
+      <pubDate>2025-04-18</pubDate>
+    </item>
+
+    <item>
+      <title>Havuz ve Manzara</title>
+      <link>https://mahmutlar-satilik-daire-4150k.vercel.app/landing05_viewpool.html</link>
+      <description>Panoramik havuz manzarası ve açık alan keyfi.</description>
+      <pubDate>2025-04-18</pubDate>
+    </item>
+
+    <item>
+      <title>Modern Teknoloji</title>
+      <link>https://mahmutlar-satilik-daire-4150k.vercel.app/landing06_modern.html</link>
+      <description>Wi-Fi kontrollü klima, anlık su ısıtıcı, spot aydınlatma.</description>
+      <pubDate>2025-04-18</pubDate>
+    </item>
+
+    <item>
+      <title>Geniş Balkon</title>
+      <link>https://mahmutlar-satilik-daire-4150k.vercel.app/landing07_balcony.html</link>
+      <description>Ferah balkon ile açık hava yaşamı.</description>
+      <pubDate>2025-04-18</pubDate>
+    </item>
+
+  </channel>
+</rss>
