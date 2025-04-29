@@ -21,4 +21,9 @@
   <url>
     <loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing07_balcony.html</loc>
   </url>
+  <url>
+    <loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing11_final.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
