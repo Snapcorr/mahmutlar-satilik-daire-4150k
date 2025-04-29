@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Residence",
+  "name": "1+1 Apartment in Tekinoglu Residence Mahmutlar",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Mahmutlar",
+    "addressRegion": "Alanya",
+    "addressCountry": "Turkey"
+  },
+  "floorSize": {
+    "@type": "QuantitativeValue",
+    "value": 47,
+    "unitCode": "MTK"
+  },
+  "numberOfRooms": 2,
+  "amenityFeature": [
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Sea Nearby",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Pool View",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Tourism Rental Permit",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Wi-Fi Controlled AC",
+      "value": true
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.494381,
+    "longitude": 32.091060
+  },
+  "url": "https://mahmutlar-satilik-daire-4150k.vercel.app/landing11_final.html",
+  "image": "https://mahmutlar-satilik-daire-4150k.vercel.app/pictures/hero1.jpg",
+  "description": "Fully furnished 1+1 apartment with pool view in Mahmutlar, Alanya. South-facing, balcony, rental permit, Wi-Fi controlled AC, instant water heater and full modern setup. Perfect for investment or living."
+}
