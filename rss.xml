@@ -1,59 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Mahmutlar Satılık Daire RSS</title>
+    <title>Mahmutlar Satılık Daireler | Alanya Yatırım</title>
     <link>https://mahmutlar-satilik-daire-4150k.vercel.app/</link>
-    <description>Alanya Mahmutlar'da 1+1 Satılık Daireler - Yatırım ve Konfor</description>
-    <language>tr</language>
-    <lastBuildDate>2025-04-20</lastBuildDate>
+    <description>Alanya Mahmutlar bölgesinde satılık 1+1 tam donanımlı, turizm izinli lüks daireler. Yatırım ve yaşam fırsatlarını keşfedin.</description>
+    <language>tr-TR</language>
 
     <item>
-      <title>Genel Bakış</title>
-      <link>https://mahmutlar-satilik-daire-4150k.vercel.app/index.html</link>
-      <description>Güneşli, tam donanımlı 1+1 daire. Klima, balkon, turizm izni.</description>
-      <pubDate>2025-04-18</pubDate>
-    </item>
-
-    <item>
-      <title>Yatırım Potansiyeli</title>
+      <title>Yatırıma Uygun 1+1 Daire | Mahmutlar</title>
       <link>https://mahmutlar-satilik-daire-4150k.vercel.app/landing02_investment.html</link>
-      <description>Yüksek kira getirisi ve Airbnb uyumlu konum.</description>
-      <pubDate>2025-04-18</pubDate>
+      <description>Yüksek kira getirili, tam donanımlı yatırım fırsatı.</description>
     </item>
 
     <item>
-      <title>Turizm Kiralama</title>
+      <title>Turizm İzinli Daire | Mahmutlar Alanya</title>
       <link>https://mahmutlar-satilik-daire-4150k.vercel.app/landing03_tourism.html</link>
-      <description>Yasal günübirlik kiralama izni ile hazır sistem.</description>
-      <pubDate>2025-04-18</pubDate>
+      <description>Turizm amaçlı kiralamaya uygun 1+1 daire.</description>
     </item>
 
     <item>
-      <title>Aile İçin Uygun</title>
+      <title>Aile İçin İdeal 1+1 | Mahmutlar</title>
       <link>https://mahmutlar-satilik-daire-4150k.vercel.app/landing04_family.html</link>
-      <description>Okullara yakın, güvenli site, 2. kat konforu.</description>
-      <pubDate>2025-04-18</pubDate>
+      <description>Aile yaşamına uygun balkonlu ve geniş daire.</description>
     </item>
 
     <item>
-      <title>Havuz ve Manzara</title>
+      <title>Havuz Manzaralı Lüks Daire | Mahmutlar</title>
       <link>https://mahmutlar-satilik-daire-4150k.vercel.app/landing05_viewpool.html</link>
-      <description>Panoramik havuz manzarası ve açık alan keyfi.</description>
-      <pubDate>2025-04-18</pubDate>
+      <description>Geniş balkonlu, havuz manzaralı modern daire.</description>
     </item>
 
     <item>
-      <title>Modern Teknoloji</title>
+      <title>Modern Tasarımlı Daire | Alanya</title>
       <link>https://mahmutlar-satilik-daire-4150k.vercel.app/landing06_modern.html</link>
-      <description>Wi-Fi kontrollü klima, anlık su ısıtıcı, spot aydınlatma.</description>
-      <pubDate>2025-04-18</pubDate>
+      <description>Modern detaylarla donatılmış taşınmaya hazır daire.</description>
     </item>
 
     <item>
-      <title>Geniş Balkon</title>
+      <title>Geniş Balkonlu Daire | Mahmutlar</title>
       <link>https://mahmutlar-satilik-daire-4150k.vercel.app/landing07_balcony.html</link>
-      <description>Ferah balkon ile açık hava yaşamı.</description>
-      <pubDate>2025-04-18</pubDate>
+      <description>Güneş alan ferah balkonlu daire fırsatı.</description>
+    </item>
+
+    <item>
+      <title>Detaylı Tanıtım | Tekinoğlu Sitesi</title>
+      <link>https://mahmutlar-satilik-daire-4150k.vercel.app/landing11_final.html</link>
+      <description>Mahmutlar Alanya'da full donanımlı, yatırım potansiyelli 1+1 daire.</description>
     </item>
 
   </channel>
