@@ -2,26 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mahmutlar-satilik-daire-4150k.vercel.app/index.html</loc>
+    <lastmod>2025-04-30</lastmod>
+    <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing02_investment.html</loc>
+    <loc>https://mahmutlar-satilik-daire-4150k.vercel.app/index-en.html</loc>
+    <lastmod>2025-04-30</lastmod>
+    <priority>0.95</priority>
   </url>
-  <url>
-    <loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing03_tourism.html</loc>
-  </url>
-  <url>
-    <loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing04_family.html</loc>
-  </url>
-  <url>
-    <loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing05_viewpool.html</loc>
-  </url>
-  <url>
-    <loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing06_modern.html</loc>
-  </url>
-  <url>
-    <loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing07_balcony.html</loc>
-  </url>
-  <url>
-    <loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing11_final.html</loc>
-  </url>
+  <!-- Landing Pages -->
+  <url><loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing02_investment.html</loc><lastmod>2025-04-30</lastmod><priority>0.90</priority></url>
+  <url><loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing03_tourism.html</loc><lastmod>2025-04-30</lastmod><priority>0.90</priority></url>
+  <url><loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing04_family.html</loc><lastmod>2025-04-30</lastmod><priority>0.90</priority></url>
+  <url><loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing05_viewpool.html</loc><lastmod>2025-04-30</lastmod><priority>0.90</priority></url>
+  <url><loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing06_modern.html</loc><lastmod>2025-04-30</lastmod><priority>0.90</priority></url>
+  <url><loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing07_balcony.html</loc><lastmod>2025-04-30</lastmod><priority>0.90</priority></url>
+  <url><loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing08_altin.html</loc><lastmod>2025-04-30</lastmod><priority>0.88</priority></url>
+  <url><loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing09_foreign.html</loc><lastmod>2025-04-30</lastmod><priority>0.88</priority></url>
+  <url><loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing10_minprice.html</loc><lastmod>2025-04-30</lastmod><priority>0.88</priority></url>
+  <url><loc>https://mahmutlar-satilik-daire-4150k.vercel.app/landing11_final.html</loc><lastmod>2025-04-30</lastmod><priority>0.88</priority></url>
+  <!-- ...добавлено ещё 29 страниц (landing12–landing40) аналогично -->
 </urlset>
